@@ -1,2 +1,1 @@
-# thinkfulPizzaProject
-Thinkful's pizza project. 
+# pizza
